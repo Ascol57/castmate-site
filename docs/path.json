@@ -1,0 +1,32 @@
+{
+  "dir": [
+    {
+      "name": "1) Get Started",
+      "dir": [],
+      "file": [
+        "Installation.md"
+      ]
+    },
+    {
+      "name": "2) Features",
+      "dir": [],
+      "file": [
+        "Overlays.md",
+        "Profiles.md",
+        "Stream Plans.md",
+        "Templates.md"
+      ]
+    },
+    {
+      "name": "3) Plugins",
+      "dir": [],
+      "file": [
+        "Discord.md",
+        "HTTP.md"
+      ]
+    }
+  ],
+  "file": [
+    "CastMate Documentation.md"
+  ]
+}
